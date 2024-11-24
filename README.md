@@ -16,7 +16,11 @@ This is a simple Snake Game implemented using Python's `pygame` library. The pla
 - `pygame` library. You can install it using:
   ```bash
   pip install pygame
- ## Example GamePlay
+  ```
+## Screenshots
+![Screenshot 2024-11-24 195646](https://github.com/user-attachments/assets/8a10f30a-6a19-4200-a03c-0d733e80cbdc)
+ 
+## Example GamePlay
 Your score is displayed at the top left of the screen.
 The snake starts small and grows as it eats food.
 Every 5 food items eaten, the snake's speed increases.
